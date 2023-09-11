@@ -19,7 +19,7 @@
     "psr/log": "^1|^2|^3",
     "symfony/console": "^6.3",
     "mirkz84/database": "dev-master",
-    "symfony/debug": "^4",
+    "symfony/debug": "^4"
   },
   "require-dev": {
     "satooshi/php-coveralls": "~1.0",
